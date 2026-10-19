@@ -49,7 +49,7 @@ Vendas, lucro e margem por segmento, matriz de margem País × Segmento e análi
 - Investigar Enterprise: vende US$ 19,6 Mi com margem negativa; revisar preço, custo e descontos.
 - Rever descontos médios e altos: o lucro é máximo no desconto baixo.
 - Reduzir a dependência de Government e Paseo.
-- **Testar a expansão de Channel Partners, que tem a maior margem.
+- Testar a expansão de Channel Partners, que tem a maior margem.
   
 ## Metodologia
 
