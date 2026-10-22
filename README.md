@@ -6,6 +6,10 @@ Dashboard interativo em três páginas que analisa vendas, lucro, volume e desco
 **LinkedIn:** [linkedin.com/in/augusto-santos](https://linkedin.com/in/augusto-santos)
 **GitHub:** [github.com/augustosnts](https://github.com/AugustoSnts)
 
+##Vídeo
+
+🎥 **Demonstração em vídeo:** [assista aqui](https://youtu.be/EKrkcXyOPPk)
+
 ## Objetivo
 
 Responder perguntas de negócio sobre desempenho comercial:
