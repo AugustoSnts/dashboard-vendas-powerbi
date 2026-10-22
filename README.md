@@ -77,9 +77,11 @@ Vendas, lucro e margem por segmento, matriz de margem País × Segmento e análi
 ## Estrutura do repositório
 
 ```
-├── Projeto1_PowerBI.pbix
-├── Financial Sample.xlsx
-├── imagens/
+├── Dashboard/
+    ├── Financial Sample.xlsx
+    ├── Projeto1_PowerBI.pbix
+    └── Projeto1_PowerBI.pdf
+├── Imagens/
 │   ├── pagina1.png
 │   ├── pagina2.png
 │   └── pagina3.png
