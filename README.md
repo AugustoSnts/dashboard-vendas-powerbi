@@ -3,7 +3,6 @@
 Dashboard interativo em três páginas que analisa vendas, lucro, volume e descontos a partir do dataset *Financial Sample* da Microsoft (set/2013 a dez/2014).
 
 **Autor:** Caio Augusto de Lima Santos
-🎥 **Demonstração em vídeo:** [assista aqui](https://youtu.be/EKrkcXyOPPk)
 **LinkedIn:** [linkedin.com/in/augusto-santos](https://linkedin.com/in/augusto-santos)
 **GitHub:** [github.com/augustosnts](https://github.com/AugustoSnts)
 
